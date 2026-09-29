@@ -1,0 +1,31 @@
+EmployeeID,Gender,Age,Department,JobRole,JobLevel,JobSatisfaction,YearsAtCompany,MonthlyIncome,OverTime,Attrition,MaritalStatus
+1,Male,29,Sales,Sales Executive,1,2,3,2500,Yes,No,Single
+2,Female,34,HR,HR Executive,5,4,8,4200,No,Yes,Married
+3,Male,41,IT,Software Engineer,10,3,12,6800,No,No,Married
+4,Female,26,IT,Developer,2,2,3,3900,Yes,No,Single
+5,Male,38,Finance,Accountant,7,4,9,5200,No,No,Married
+6,Female,31,Sales,Sales Representative,4,3,6,3600,Yes,Yes,Single
+7,Male,45,IT,Senior Developer,15,4,18,8500,No,No,Married
+8,Female,28,Finance,Financial Analyst,3,3,4,4100,No,No,Single
+9,Male,24,Sales,Sales Executive,1,2,2,2300,Yes,Yes,Single
+10,Female,37,HR,HR Manager,9,4,11,6100,No,No,Married
+11,Male,33,IT,System Analyst,6,3,7,5700,No,No,Married
+12,Female,25,Sales,Sales Representative,2,2,3,2800,Yes,Yes,Single
+13,Male,39,Finance,Senior Accountant,8,3,10,5900,No,No,Married
+14,Female,30,IT,Developer,4,3,5,4500,No,No,Single
+15,Male,27,Sales,Sales Executive,2,2,3,2600,Yes,Yes,Single
+16,Female,43,HR,HR Manager,12,4,16,7200,No,No,Married
+17,Male,36,IT,Software Engineer,8,3,9,6300,No,No,Married
+18,Female,29,Finance,Financial Analyst,3,2,4,3800,Yes,No,Single
+19,Male,32,Sales,Sales Representative,5,3,6,3400,No,No,Married
+20,Female,35,IT,QA Engineer,6,3,8,5000,No,Yes,Married
+21,Male,23,Sales,Sales Executive,1,2,1,2200,Yes,Yes,Single
+22,Female,40,Finance,Finance Manager,11,4,14,7500,No,No,Married
+23,Male,30,IT,Developer,4,3,5,4400,No,No,Single
+24,Female,27,HR,HR Executive,2,2,3,3300,Yes,Yes,Single
+25,Male,44,IT,Senior Developer,14,4,17,8200,No,No,Married
+26,Female,33,Sales,Sales Executive,5,3,7,3700,No,No,Married
+27,Male,28,Finance,Accountant,3,2,4,3200,Yes,No,Single
+28,Female,42,IT,Project Manager,13,4,15,7900,No,No,Married
+29,Male,31,Sales,Sales Representative,4,3,5,3500,No,Yes,Single
+30,Female,26,Finance,Financial Analyst,2,2,3,3000,Yes,Yes,Single
